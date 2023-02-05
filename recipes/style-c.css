@@ -1,0 +1,32 @@
+.center-align {
+    text-align: center;
+}
+
+.big-text {
+    font-family: Helvetica, Verdana, sans-serif;
+    font-weight: 1000;
+    font-size: 48px;
+}
+
+.headings {
+    font-family: Helvetica, Verdana, sans-serif;
+    font-weight: 1000;
+}
+
+.center-align-bold {
+    text-align: center;
+    font-weight: bold;
+}
+
+.font-change {
+    font-family: Helvetica, Verdana, sans-serif;
+}
+
+.bk-cl {
+    background-color: rgb(255, 253, 240);
+}
+
+#s {
+    height: 500px;
+    width: auto;
+}
